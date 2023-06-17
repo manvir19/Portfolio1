@@ -101,12 +101,17 @@ img{
 
 
 }
-@media screen and (max-width:437px){
+/* @media screen and (max-width:437px){
 
    .about{
-    min-height: 250vh;
 } 
-}
+} */
+@media screen and (max-width:391px){
+
+    .about{
+     min-height: 190vh;
+ } 
+ }
 .about p{
     font-family: 'Playfair Display', serif;
     margin: 2% 10%;
@@ -175,7 +180,7 @@ img{
 
 
 .resume{
-    padding-top: 20vh;
+    padding-top: 25vh;
     /* background-color: #F5F5F5; */
     background-color: #E1EBEE!important;
 
@@ -214,7 +219,7 @@ font-size: 18px;
     display: inline;
 } */
 .contact{
-    padding-top: 10vh;
+    padding-top: 15vh;
     max-width: 100vw;
     /* background-color: #E1EBEE; */
     background-color: #F5F5F5;
@@ -258,3 +263,22 @@ margin-right: 6px;
     height: 10vh;
     background-color: #E1EBEE;
 }
+
+::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
