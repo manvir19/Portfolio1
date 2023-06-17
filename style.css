@@ -110,6 +110,7 @@ img{
      min-height: 250vh;
  } 
  } */
+
  @media screen and (min-width:319px) and (max-width:389px){
 
     .about{
@@ -319,3 +320,19 @@ margin-right: 6px;
   ::-webkit-scrollbar-thumb:hover {
     background: #555; 
   }
+
+
+  @media screen and (max-width:319px){
+
+    .about{
+     height: 210vh;
+ } 
+ .copyright{
+    /* margin-bottom:0 ; */
+    height: 12vh;
+ }
+ .edu1 h2,h3{
+    font-size: medium;
+}
+
+ }
