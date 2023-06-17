@@ -92,7 +92,7 @@ img{
 
 .about{
     padding-top: 9vh;
-    min-height: 250vh;
+    min-height: 230vh;
     /* background-color: #E1EBEE!important; */
     background-color: #F5F5F5;
 
@@ -103,15 +103,27 @@ img{
    .about{
 } 
 } */
-@media screen and (max-width:391px){
+@media screen and (max-width:465px){
+
+    .about{
+     min-height: 250vh;
+ } 
+ }
+ @media screen and (min-width:389px) and (max-width:465px){
 
     .about{
      min-height: 200vh;
  } 
  }
+ @media screen and (min-width:424px) and (max-width:426px){
+
+    .about{
+     min-height: 250vh;
+ } 
+ }
 .about p{
     font-family: 'Playfair Display', serif;
-    margin: 2% 10%;
+    margin: 2% 10% ;
 }
 
 .edu{
