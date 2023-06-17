@@ -120,10 +120,10 @@ img{
  @media screen and (min-width:389px) and (max-width:391px){
 
     .about{
-     height: 196vh;
+     height: 210vh;
  } 
   .skill{
-    margin-top: 9vh;
+    margin-top: 5vh;
   }
  }
  @media screen and (min-width:391px) and (max-width:769px){
