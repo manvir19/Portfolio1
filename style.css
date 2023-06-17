@@ -121,6 +121,9 @@ img{
     .about{
      height: 196vh;
  } 
+  .skill{
+    margin-top: 20vh;
+  }
  }
  @media screen and (min-width:391px) and (max-width:769px){
 
