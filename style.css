@@ -110,7 +110,7 @@ img{
      min-height: 250vh;
  } 
  } */
- @media screen and (min-width:319px) and (max-width:769px){
+ @media screen and (min-width:319px) and (max-width:389px){
 
     .about{
      height: 250vh;
@@ -120,6 +120,12 @@ img{
 
     .about{
      height: 196vh;
+ } 
+ }
+ @media screen and (min-width:391px) and (max-width:769px){
+
+    .about{
+     height: 250vh;
  } 
  }
  @media screen and (min-width:769px) and (max-width:1000px){
