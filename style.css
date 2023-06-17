@@ -116,6 +116,12 @@ img{
      height: 250vh;
  } 
  }
+ @media screen and (min-width:389px) and (max-width:391px){
+
+    .about{
+     height: 196vh;
+ } 
+ }
  @media screen and (min-width:769px) and (max-width:1000px){
 
     .about{
