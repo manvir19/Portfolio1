@@ -57,10 +57,7 @@ h1::after {
 div .col{
  height: 300%;
 }
- .row{
-    /* height: 300%; */
-    /* padding-top: 10vh; */
-   }
+
 img{
     border-radius: 30px;
     width: 70%;
@@ -95,7 +92,7 @@ img{
 
 .about{
     padding-top: 9vh;
-    min-height: 220vh;
+    min-height: 250vh;
     /* background-color: #E1EBEE!important; */
     background-color: #F5F5F5;
 
@@ -224,7 +221,7 @@ font-size: 18px;
     /* background-color: #E1EBEE; */
     background-color: #F5F5F5;
 
-    height: 60vh;
+    height: 70vh;
 }
 .contact i{
 margin: auto;
@@ -244,8 +241,8 @@ margin-right: 6px;
 }
 .c2{
     margin: auto;
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin-top: 3%;
+    margin-bottom: 15%;
     width: 10%;
     display: flex;
     justify-content: center;
