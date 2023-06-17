@@ -109,10 +109,10 @@ img{
      min-height: 250vh;
  } 
  }
- @media screen and (min-width:389px) and (max-width:465px){
+ @media screen and (min-width:389px) and (max-width:491px){
 
     .about{
-     min-height: 200vh;
+     min-height: 250vh;
  } 
  }
  @media screen and (min-width:424px) and (max-width:426px){
