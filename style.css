@@ -14,11 +14,9 @@
     font-size: 1.2em;
 
 }
-.navbar{
-    position: fixed !important;
-    width: 100%;
-    z-index: 1;
-}
+/* nav{
+    po
+} */
 
 .bg-light {
     /* background-color: #E1EBEE!important; */
