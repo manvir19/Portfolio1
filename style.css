@@ -120,7 +120,7 @@ img{
      height: 250vh;
  } 
  .home{
-    padding-top: 7vh;
+    padding-top: 17vh;
  }
  }
  @media screen and (min-width:389px) and (max-width:391px){
@@ -350,7 +350,7 @@ margin-right: 6px;
     margin-bottom: 30%;
 }
 .home{
-    padding-top: 100vh;
+    padding-top: 20vh;
  }
 
  }
