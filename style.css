@@ -1,6 +1,5 @@
 .navbar-light .navbar-brand {
     /* background-color: 	#FFFAF0; */
-    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     font-family: 'Yatra One', cursive;
     font-size: 1.2em;
 }
@@ -11,7 +10,6 @@
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 1.6rem;
     padding-left: 0.5rem;
-    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     font-family: 'Yatra One', cursive;
     font-size: 1.2em;
 
@@ -186,15 +184,15 @@ img{
     /* background-color: black; */
 }
 
-/* Make sure that padding behaves as expected */
+
 * {box-sizing:border-box}
 
-/* Container for skill bars */
+
 .container1 {
-    margin: auto;
-  width: 60%; /* Full width */
+  margin: auto;
+  width: 60%; 
   border-radius: 0px;
-  background-color: #ddd; /* Grey background */
+  background-color: #ddd; 
   /* margin-bottom: 15%; */
 }
 .skill{
@@ -205,16 +203,16 @@ img{
 .skills {
   /* height: 109px; */
   border-radius: 0px;
-  text-align: right; /* Right-align text */
-  padding-top: 1px; /* Add top padding */
-  padding-bottom: 10px; /* Add bottom padding */
-  color: white; /* White text color */
+  text-align: right; 
+  padding-top: 1px; 
+  padding-bottom: 10px;  
+  color: white; 
 }
 
-.html {width: 100%; height: 14px; background-color: #0070BB;} /* Green */
-.css {width: 90%; height: 14px; background-color: #0070BB;} /* Blue */
-.js {width: 60%; height: 14px; background-color: #0070BB;} /* Red */
-.php {width: 80%; height: 14px; background-color: #0070BB;} /* Dark Grey */
+.html {width: 100%; height: 14px; background-color: #0070BB;} 
+.css {width: 90%; height: 14px; background-color: #0070BB;} 
+.js {width: 60%; height: 14px; background-color: #0070BB;} 
+.php {width: 80%; height: 14px; background-color: #0070BB;} 
 
 
 .resume{
