@@ -335,7 +335,9 @@ margin-right: 6px;
 
 
   @media screen and (max-width:319px){
-
+    .home{
+        padding-top: 15vh !important;
+     }
     .about{
      height: 280vh;
  } 
@@ -349,8 +351,6 @@ margin-right: 6px;
 .skills{
     margin-bottom: 30%;
 }
-.home{
-    padding-top: 20vh;
- }
+
 
  }
